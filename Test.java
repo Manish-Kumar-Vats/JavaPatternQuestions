@@ -8,6 +8,7 @@ public class Test {
         Scanner obj = new Scanner(System.in);
         int inputNumber = obj.nextInt();
 
+        int row=inputNumber;
         for(int i=0;i<row;i++){
             for(int j=0;j<=i;j++){
 
